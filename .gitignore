@@ -1,0 +1,27 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code / VS settings
+.vscode/
+.vs/
+
+# ASP.NET Secrets
+secrets.json
+
+# Others
+*.log
+*.tmp
+
+# Publish output
+wwwroot/
+
+# EF Migrations snapshot files
+Migrations/*Snapshot.cs
+ECHO is on.
